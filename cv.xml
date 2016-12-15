@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+<to>CV</to>
+<info>
+	<noms>CROS</noms>
+	<from>Clement</from>
+	<telephone>0622775465</telephone>
+	<adresse>8 rue de la paix</adresse>
+</info>
+
+<cpt>
+
+	<cpt1>fais a manger</cpt1>
+	<cpt2>fais la vaiselle</cpt2>
+	
+</cpt>
+
+<body>Je ne sais rien faire</body>
+
+<experience>
+	<list>
+		<xp1>prestige 4 call of</xp1>
+		<xp2>poney</xp2>
+		<xp3>make love don't war</xp3>
+	</list>
+</experience>
+
+
+
+<voyages>Etat unis, madagascar, angleterre,...</voyages>
+
+<test>Je sais pas quoi faire</test>
+<a> je vais tester le saut a la ligne
+
+c'est cool ça marche pas
+</a>
+
+</note>
